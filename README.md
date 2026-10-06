@@ -36,7 +36,7 @@ and finite operator learning.
 - [LinkedIn](https://www.linkedin.com/in/ahmad-moeineddin-599837175)
 - [TU Dresden Research Profile](https://tu-dresden.de/bu/bauingenieurwesen/sdt/das-institut/beschaeftigte/wissenschaftliche-mitarbeiter/aMoeineddin)
 - [Google Scholar](https://scholar.google.com/citations?user=eOQXTPIAAAAJ&hl=en&oi=ao)
-- [ORCID]([PUT-YOUR-ORCID-LINK-HERE](https://orcid.org/0000-0002-0427-4119))
+- [ORCID](https://orcid.org/0000-0002-0427-4119)
 
 ---
 
